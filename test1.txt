@@ -5,3 +5,4 @@ this is second update
 My name is Mervin
 I'm study git
 test log change£¬ this is commit by master
+test log change£¬use feature1 commit
